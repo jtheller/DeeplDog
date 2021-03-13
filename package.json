@@ -1,0 +1,13 @@
+{
+  "name": "deepldog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "puppeteer": "^5.5.0"
+  }
+}
